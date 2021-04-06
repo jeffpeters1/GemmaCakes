@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GemmaCakes.WEB", "GemmaCakes.WEB\GemmaCakes.WEB.csproj", "{FF207C4B-2224-4E86-BAB9-0A5516145BEC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GemmaCakes.CORE", "GemmaCakes.CORE\GemmaCakes.CORE.csproj", "{8B6BD85E-E274-4791-A3B8-A7C082B80411}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GemmaCakes.INFRASTRUCTURE", "GemmaCakes.INFRASTRUCTURE\GemmaCakes.INFRASTRUCTURE.csproj", "{0028A960-A447-440E-8EBF-E7E34DDFDF8F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GemmaCakes.TEST", "GemmaCakes.TEST\GemmaCakes.TEST.csproj", "{3E50947C-DD09-47BF-AE7A-12109501A28C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF207C4B-2224-4E86-BAB9-0A5516145BEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF207C4B-2224-4E86-BAB9-0A5516145BEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF207C4B-2224-4E86-BAB9-0A5516145BEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF207C4B-2224-4E86-BAB9-0A5516145BEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B6BD85E-E274-4791-A3B8-A7C082B80411}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B6BD85E-E274-4791-A3B8-A7C082B80411}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B6BD85E-E274-4791-A3B8-A7C082B80411}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B6BD85E-E274-4791-A3B8-A7C082B80411}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0028A960-A447-440E-8EBF-E7E34DDFDF8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0028A960-A447-440E-8EBF-E7E34DDFDF8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0028A960-A447-440E-8EBF-E7E34DDFDF8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0028A960-A447-440E-8EBF-E7E34DDFDF8F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E50947C-DD09-47BF-AE7A-12109501A28C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E50947C-DD09-47BF-AE7A-12109501A28C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E50947C-DD09-47BF-AE7A-12109501A28C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E50947C-DD09-47BF-AE7A-12109501A28C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {84FD287A-EC50-44ED-84E4-5EC1032F7F8D}
+	EndGlobalSection
+EndGlobal
